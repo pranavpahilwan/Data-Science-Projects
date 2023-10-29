@@ -1,1 +1,9 @@
-
+Important libraries used in EDA are - Pandas, numpy, Matplotlib.pyplot, Seaborn.
+EDA is all about Insights or Observations coming from data.
+Before going to analyze the data, I have included below important points to be considered.
+- Check missing values in the dataset
+- Check duplicates
+- Check data types
+- Check the number of unique values of each column.
+- Check the statistics of the dataset.
+- Check various categories present in the categorical dataset.
